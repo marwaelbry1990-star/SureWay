@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sureway.pages.dev/sitemap.xml
